@@ -1,3 +1,4 @@
+24k-3100
 1. Take input of a number.
 2. For each input:
 - Check if the number is divisible by 2.
@@ -6,4 +7,6 @@
 - Print or store the result for each number, indicating whether it is even or odd.
 3. Repeat for all inputs
 
+=======
+ main
 
